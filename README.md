@@ -29,7 +29,7 @@ O projeto é uma aplicação desktop desenvolvida com Rust e Tauri, utilizando R
 
 ### Execução:
 
-1. Baixe a última versão do aplicativo [CLICANDO AQUI]([https://github.com/MatheusGrilo/XML-Facil-VSM/releases/latest](https://github.com/matheusgrilo/xml-facil-vsm/releases/latest/download/XML_Facil.exe))
+1. Baixe a última versão do aplicativo [CLICANDO AQUI](https://github.com/matheusgrilo/xml-facil-vsm/releases/latest/download/XML_Facil.exe)
 
 2. Execute, escolha a loja e o período para filtra, e clique em "Salvar"
 3. Aguarde e envie ao escritório 😊👌
